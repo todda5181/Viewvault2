@@ -1,7 +1,7 @@
 export default function HomeWatchGreatFalls() {
   return (
     <Page
-      title="Home Watch Services in Great Falls, VA"
+      title="Home Watch Services"
       kicker="Home Watch"
       intro="Arden offers discreet home watch and property oversight services for high-value homes in Great Falls, McLean, and surrounding Northern Virginia communities."
       body={[

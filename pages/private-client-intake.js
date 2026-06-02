@@ -313,9 +313,9 @@ src="/logo.png?v=2"
               <div className="eyebrow">Private Client Intake</div>
 
               <h1>
-                Request a Private
+                Schedule a Confidential
                 <br />
-                Assessment.
+                Consultation.
               </h1>
 
               <div className="divider" />

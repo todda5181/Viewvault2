@@ -427,8 +427,7 @@ export default function Home() {
             <div className="divider" />
 
             <p className="hero-copy">
-              Discreet, comprehensive estate oversight for exceptional homes and
-              the people who own them.
+              Discreet, private Estate Management for Exceptional Homes.
             </p>
 
             <a href="/private-client-intake" className="cta">

@@ -300,7 +300,7 @@ src="/logo.png?v=2"
             <h1>Thank You.</h1>
             <div className="divider" style={{ margin: "28px auto" }} />
             <p>
-              Your private intake request has been received. A member of the
+              Your confidential consultation request has been received. A member of the
               Arden team will contact you shortly.
             </p>
             <a href="/" className="back">

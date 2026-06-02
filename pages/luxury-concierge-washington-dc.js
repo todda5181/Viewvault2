@@ -1,9 +1,9 @@
 export default function LuxuryConciergeWashingtonDC() {
   return (
     <Page
-      title="Luxury Concierge Services in Washington DC"
+      title="Luxury Concierge Services"
       kicker="Private Concierge"
-      intro="Arden provides refined, discreet concierge support for discerning clients in Washington DC, Northern Virginia, and Maryland."
+      intro="Arden provides refined, discreet concierge support for discerning clients in Northern Virginia, Washington DC, and Maryland."
       body={[
         ["What does a luxury concierge do?", "A luxury concierge handles household logistics, arrival preparation, vendor coordination, reservations, special requests, and discreet personal support."],
         ["Who uses this service?", "Our clients are busy homeowners, executives, frequent travelers, and private families who want time returned and details handled without friction."],

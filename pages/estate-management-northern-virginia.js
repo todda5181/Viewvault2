@@ -1,7 +1,7 @@
 export default function EstateManagementNorthernVirginia() {
   return (
     <Page
-      title="Private Estate Management in Northern Virginia"
+      title="Private Estate Management"
       kicker="Estate Management"
       intro="Arden provides discreet, full-service estate management for exceptional homes across Northern Virginia, Washington DC, and Maryland."
       body={[

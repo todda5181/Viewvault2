@@ -3,7 +3,7 @@ export default function HomeWatchGreatFalls() {
     <Page
       title="Home Watch Services"
       kicker="Home Watch"
-      intro="Arden offers discreet home watch and property oversight services for high-value homes in Great Falls, McLean, and surrounding Northern Virginia communities."
+      intro="Arden offers discreet home watch and property oversight services for high-value homes in McLean, Great Falls, and surrounding Northern Virginia communities."
       body={[
         ["What is a home watch service?", "A home watch service provides scheduled inspections and oversight while a homeowner is away. Arden elevates this with white-glove reporting, vendor coordination, and proactive issue resolution."],
         ["What we monitor", "We review exterior conditions, interior systems, vendor access, storm concerns, security issues, maintenance needs, and signs of damage or disruption."],

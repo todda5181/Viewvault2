@@ -428,7 +428,7 @@ export default function Home() {
             <div className="divider" />
 
             <p className="hero-copy">
-              Discreet, Private Estate Management for Exceptional Homes.
+              Save, organize, rate, and recommend TV shows and movies from every streaming service.
             </p>
 
             <a href="/private-client-intake" className="cta">

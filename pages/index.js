@@ -1,40 +1,41 @@
 export default function Home() {
   const services = [
-    {
-      title: "ViewVault | Your Personal Streaming Library",
-      description:
-  "Save, organize, rate, and recommend shows across every streaming service."
-      icon: "⌂",
-      link: "/estate-management-northern-virginia",
-    },
-    {
-      title: "Security & Access",
-      description:
-        "Discreet access coordination, trusted monitoring, and protocols that protect what matters most.",
-      icon: "◆",
-      link: "/home-watch-services-great-falls-va",
-    },
-    {
-      title: "Lifestyle Concierge",
-      description:
-        "From arrivals to events, reservations to stocking, every detail is handled before you ask.",
-      icon: "✦",
-      link: "/luxury-concierge-washington-dc",
-    },
-    {
-      title: "Estate Maintenance",
-      description:
-        "Proactive preservation of your home, systems, and grounds so everything remains in exceptional order.",
-      icon: "◇",
-      link: "/estate-management-northern-virginia",
-    },
-    {
-      title: "Vendor Management",
-      description:
-        "We vet, schedule, coordinate, and oversee trusted service partners on your behalf.",
-      icon: "♜",
-      link: "/estate-management-northern-virginia",
-    },
+  {
+    title: "Discover Shows",
+    description:
+      "Search thousands of TV shows and movies across every major streaming service.",
+    icon: "🎬",
+    link: "#discover",
+  },
+  {
+    title: "Build Your Watchlist",
+    description:
+      "Save everything you want to watch in one organized place.",
+    icon: "📺",
+    link: "#watchlist",
+  },
+  {
+    title: "Track Your Progress",
+    description:
+      "Know exactly what you're watching and what you've already finished.",
+    icon: "✔️",
+    link: "#progress",
+  },
+  {
+    title: "Rate Your Favorites",
+    description:
+      "Keep personal ratings so you'll always remember the best shows.",
+    icon: "⭐",
+    link: "#ratings",
+  },
+  {
+    title: "Share Recommendations",
+    description:
+      "Recommend great shows to friends and discover theirs.",
+    icon: "🤝",
+    link: "#friends",
+  },
+];
   ];
 
   return (

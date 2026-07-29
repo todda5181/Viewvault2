@@ -420,9 +420,9 @@ export default function Home() {
             <div className="eyebrow">Your Personal Streaming Library</div>
 
             <h1 className="hero-title">
-              Everything Handled.
+            Everything You Want To Watch.
               <br />
-              Nothing Overlooked.
+           All In One Place.
             </h1>
 
             <div className="divider" />

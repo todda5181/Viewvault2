@@ -417,7 +417,7 @@ export default function Home() {
 
         <section className="hero">
           <div>
-            <div className="eyebrow">Private Estate Oversight</div>
+            <div className="eyebrow">Your Personal Streaming Library</div>
 
             <h1 className="hero-title">
               Everything Handled.

@@ -3,10 +3,7 @@ export default function Home() {
     {
       title: "ViewVault | Your Personal Streaming Library",
       description:
-<meta
-  name="description"
-  content="Save, organize, rate, and recommend shows across every streaming service."
-/>
+  "Save, organize, rate, and recommend shows across every streaming service."
       icon: "⌂",
       link: "/estate-management-northern-virginia",
     },

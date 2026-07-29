@@ -469,7 +469,7 @@ export default function Home() {
                   <h3>{service.title}</h3>
                   <div className="ornament">◇</div>
                   <p>{service.description}</p>
-                  <div className="learn">Learn More →</div>
+                 <div className="learn">Explore →</div>
                 </div>
               </a>
             ))}

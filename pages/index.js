@@ -1,9 +1,12 @@
 export default function Home() {
   const services = [
     {
-      title: "Property Management",
+      title: "ViewVault | Your Personal Streaming Library",
       description:
-        "Complete oversight of your residence, vendors, maintenance, and day-to-day estate operations.",
+<meta
+  name="description"
+  content="Save, organize, rate, and recommend shows across every streaming service."
+/>
       icon: "⌂",
       link: "/estate-management-northern-virginia",
     },

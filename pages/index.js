@@ -447,19 +447,19 @@ export default function Home() {
           />
         </section>
 
-        <section className="services" id="services">
-          <div className="eyebrow center">Our Services</div>
+        <section className="services" id="discover">
+  <div className="eyebrow center">Everything in One Place</div>
 
-          <h2 className="section-title">
-            Tailored Oversight.
-            <br />
-            Total Peace of Mind.
-          </h2>
+  <h2 className="section-title">
+    Discover More.
+    <br />
+    Never Lose Track.
+  </h2>
 
-          <p className="section-sub">
-            Private estate management, home oversight, and concierge support
-            delivered with discretion, precision, and polish.
-          </p>
+  <p className="section-sub">
+    Organize what you want to watch, track what you have finished, rate your
+    favorites, and share recommendations with friends.
+  </p>
 
           <div className="grid">
             {services.map((service) => (

@@ -432,11 +432,11 @@ export default function Home() {
             </p>
 
             <a href="/private-client-intake" className="cta">
-              Request Confidential Consultation
+              Create Free Account
             </a>
 
             <a href="#services" className="secondary">
-              Explore Services
+              Browse Shows
             </a>
           </div>
 
